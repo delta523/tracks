@@ -1,6 +1,6 @@
 ICT tracks project:
 
-Proposed program for Off-grid Solar Power System
+Proposed program for Off-grid Solar Power System Computation Design
 
 The webpage computes the sizing of PV modules and batteries and the specifications
 for charge controller and inverter given the solar irradiation and days of the 
